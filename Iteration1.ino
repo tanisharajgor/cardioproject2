@@ -1,3 +1,5 @@
+// Iteration 1 - Responsive RGB LCD to HR Produced by Signal Generator
+
 // Libraries to allow the Arduino to interact with the components/peripherals, 
 // such as the LCD. 
 #include <LiquidCrystal.h>
